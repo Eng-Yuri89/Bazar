@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "942387611804",
+    "firebase_url": "https://bazar-2d423.firebaseio.com",
+    "project_id": "bazar-2d423",
+    "storage_bucket": "bazar-2d423.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942387611804:android:09e105682bf4fc58",
+        "android_client_info": {
+          "package_name": "com.nanotrick.bazar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942387611804-4vbsculrjgsrh4h7dqd6l5jfdh88jlr7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nanotrick.bazar",
+            "certificate_hash": "b7dc4bbf1c794439a83b12b7298d966e10f3c8ab"
+          }
+        },
+        {
+          "client_id": "942387611804-gok53ghistn0lnenibplohdgeddb4l4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwq0jG19G5xa94XbTFtOa0e5IwG2RoBmQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942387611804-gok53ghistn0lnenibplohdgeddb4l4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
